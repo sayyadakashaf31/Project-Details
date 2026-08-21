@@ -1,0 +1,5 @@
+Customer_Category,Customers,Average_Recency,Average_Frequency,Average_Monetary
+At-Risk Customers,37526,387.41,1.0,133.43
+High-Value Customers,2418,239.4,1.01,1160.83
+New Customers,50642,128.07,1.0,134.33
+Regular Customers,2772,220.44,2.11,289.62
